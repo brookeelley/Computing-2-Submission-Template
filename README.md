@@ -1,5 +1,5 @@
 # Computing 2 Coursework Submission.
-**CID**: [02067521]
+**CID**: 02067521
 
 This is the submission template for your Computing 2 Applications coursework submission.
 
